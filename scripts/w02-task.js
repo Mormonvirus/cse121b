@@ -7,7 +7,7 @@
 let fullName = "James-ann Umoh";
 let currentYear = new Date().getFullYear();
 let profilePicture = new Image();
-profilePicture = "../images/me.png";
+profilePicture = "images/me.png";
 
 
 /* Step 3 - Element Variables */
